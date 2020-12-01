@@ -100,11 +100,13 @@
             .menu li a:hover {border: none; color:#da6709;}
         
             }
-        
-        
-            
             #btn-1{
               height: 320px;
               width: 600px;
+            }
+            .menu {
+                text-align: center;
+                background-color:#2E8B57 ;
+                color: #130400;
             }
                 
